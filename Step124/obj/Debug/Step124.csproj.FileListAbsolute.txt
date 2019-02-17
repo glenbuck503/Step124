@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\bin\Debug\Step124.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\bin\Debug\Step124.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\bin\Debug\Step124.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\obj\Debug\Step124.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\obj\Debug\Step124.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\obj\Debug\Step124.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step124\Step124\obj\Debug\Step124.pdb
